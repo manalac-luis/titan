@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Products from './Products'
+import Products from './Products';
+//import {Button} from 'react-bootstrap';
+
 
 class App extends Component {
   render() {
